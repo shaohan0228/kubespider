@@ -67,7 +67,7 @@ Aria2 default secret is:kubespider
 * Configuration files are located in `${HOME}/.kubespider/`.
 
 #### 2.Connect to aria2
-For checking the download tasks on your server conveniently, go to the chrome store to download [Aria2 plugin](https://chrome.google.com/webstore/detail/aria2-for-chrome/mpkodccbngfoacfalldjimigbofkhgjn).  
+For checking the download tasks on your server conveniently, go to the chrome store to download [AriaNg plugin](https://chrome.google.com/webstore/detail/aria2-for-chrome/mpkodccbngfoacfalldjimigbofkhgjn).  
 Then connect, the plugin configuration is as follows(shown at the end of the script `install.sh` execution output):
 ![img](./docs/images/aria2-for-chrome-config-en.jpg)
 
